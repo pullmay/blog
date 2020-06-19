@@ -8,7 +8,6 @@ hasCJKLanguage = true
 
 [author]
 	name = "miruca"
-	twitter = "https://twitter.com/mirucaaura"
 
 [params]
     dateform        = "Jan 2, 2006"
@@ -20,8 +19,10 @@ hasCJKLanguage = true
 
     justifyContent = false
 
+    twitter  = "mirucaaura"
+
 [menu]
     [[menu.main]]
         name = "Posts"
-        url = "/blog/posts/"
+        url = "/posts/"
         weight = 10
