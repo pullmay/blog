@@ -2,21 +2,26 @@ baseURL = "https://pullmay.github.io/blog"
 publishDir = "docs"
 languageCode = "ja-jp"
 defaultContentLanguage = "ja"
-title = "みるかの個人ページ"
+title = "みるかのブログ"
 theme = "hermit"
+hasCJKLanguage = true
+
+[author]
+	name = "miruca"
+	twitter = "https://twitter.com/mirucaaura"
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
-  
-  homeSubtitle = "Simple and Clean"
+    dateform        = "Jan 2, 2006"
+    dateformShort   = "Jan 2"
+    dateformNum     = "2006-01-02"
+    dateformNumTime = "2006-01-02 15:04 -0700"
 
-  justifyContent = false
+    homeSubtitle = "stay gold"
+
+    justifyContent = false
 
 [menu]
-  [[menu.main]]
-    name = "Posts"
-    url = "/blog/posts/"
-    weight = 10
+    [[menu.main]]
+        name = "Posts"
+        url = "/blog/posts/"
+        weight = 10

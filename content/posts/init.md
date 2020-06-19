@@ -8,13 +8,10 @@ tags:
   - untagged
 ---
 
-# Init
-
 ## procedure
 
-1. hoge
-1. hoge
-1. hoge
+1. `hugo new posts/init.md`
+1. `code content/posts/init.md`
 
 ### code
 
