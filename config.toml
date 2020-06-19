@@ -1,9 +1,9 @@
-baseURL = "https://pullmay.github.io/blog/"
+baseURL = "https://pullmay.github.io/blog"
+publishDir = "docs"
 languageCode = "ja"
 defaultContentLanguage = "ja"
 title = "miruca"
 theme = "hermit"
-publishDir = "docs"
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
