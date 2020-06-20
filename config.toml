@@ -25,7 +25,7 @@ pygmentsStyle = "manni"
     dateformNum     = "2006-01-02"
     dateformNumTime = "2006-01-02 15:04 -0700"
 
-    mainSections = ["posts", "millog"]
+    mainSections = ["posts"]
     homeSubtitle = "stay gold"
     justifyContent = false
 
@@ -36,7 +36,7 @@ pygmentsStyle = "manni"
     [[menu.main]]
         name = "Posts"
         url = "/posts/"
-        weight = 3
+        weight = 1
         pre = "<i class='fa fa-archive'></i>"
 
     [[menu.main]]
@@ -48,7 +48,7 @@ pygmentsStyle = "manni"
     [[menu.main]]
         name = "みるログ"
         url = "/millog/"
-        weight = 1
+        weight = 3
         pre = "<i class='fa fa-archive'></i>"
     
     [[menu.main]]
