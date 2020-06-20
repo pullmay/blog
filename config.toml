@@ -36,7 +36,7 @@ pygmentsStyle = "manni"
     [[menu.main]]
         name = "Posts"
         url = "/posts/"
-        weight = 1
+        weight = 3
         pre = "<i class='fa fa-archive'></i>"
 
     [[menu.main]]
@@ -48,7 +48,7 @@ pygmentsStyle = "manni"
     [[menu.main]]
         name = "みるログ"
         url = "/millog/"
-        weight = 3
+        weight = 1
         pre = "<i class='fa fa-archive'></i>"
     
     [[menu.main]]
