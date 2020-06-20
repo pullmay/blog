@@ -8,8 +8,13 @@ tags:
   - untagged
 ---
 
-新しい記事を書くときにターミナルで次のように書くと速くて便利：
+* 新しい記事を書くときにターミナルで次のように書くと速くて便利：
+
+  ```console
+  $ hugo new posts/third.md --editor="code"
+  ```
+* 次のコマンドで新規の静的ページを作れる
 
 ```console
-$ hugo new posts/third.md --editor="code"
+$ hugo new page/about.md
 ```
