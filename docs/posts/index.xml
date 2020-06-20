@@ -33,11 +33,25 @@
 			<pubDate>Fri, 19 Jun 2020 18:49:46 +0900</pubDate>
 			
 			<guid>https://pullmay.github.io/blog/posts/init/</guid>
-			<description>procedure  hugo new posts/init.md code content/posts/init.md  code def is_prime(p): return True </description>
-			<content type="html"><![CDATA[<h2 id="procedure">procedure</h2>
+			<description>Install brew install hugo meta https://github.com/Track3/hermit procedure GitHubにblogリポジトリ（名前は任意）を作成 hugo new site blog cd themes git clone https://github.com/Track3/hermit.git themes/hermit cd ..（pwd：/blog） hugo new posts/init.md code content/posts/init.md code def is_prime(p): return True</description>
+			<content type="html"><![CDATA[<h2 id="install">Install</h2>
+<ul>
+<li><code>brew install hugo</code></li>
+</ul>
+<h2 id="meta">meta</h2>
+<ul>
+<li><a href="https://github.com/Track3/hermit">https://github.com/Track3/hermit</a></li>
+</ul>
+<h2 id="procedure">procedure</h2>
 <ol>
+<li><code>GitHub</code>に<code>blog</code>リポジトリ（名前は任意）を作成</li>
+<li><code>hugo new site blog</code></li>
+<li><code>cd themes</code></li>
+<li><code>git clone https://github.com/Track3/hermit.git themes/hermit</code></li>
+<li><code>cd ..</code>（<code>pwd</code>：<code>/blog</code>）</li>
 <li><code>hugo new posts/init.md</code></li>
 <li><code>code content/posts/init.md</code></li>
+<li></li>
 </ol>
 <h3 id="code">code</h3>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">is_prime</span>(p):
