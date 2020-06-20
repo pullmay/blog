@@ -34,7 +34,7 @@
       <pubDate>Fri, 19 Jun 2020 18:49:46 +0900</pubDate>
       
       <guid>https://pullmay.github.io/blog/posts/init/</guid>
-      <description>Install brew install hugo meta https://github.com/Track3/hermit procedure GitHubにblogリポジトリ（名前は任意）を作成 hugo new site blog cd themes git clone https://github.com/Track3/hermit.git themes/hermit cd ..（pwd：/blog） hugo new posts/init.md code content/posts/init.md code def is_prime(p): return True</description>
+      <description>Install brew install hugo meta https://github.com/Track3/hermit procedure GitHubにblogリポジトリ（名前は任意）を作成 hugo new site blog cd themes git clone https://github.com/Track3/hermit.git themes/hermit cd ..（pwd：/blog） hugo new posts/init.md code content/posts/init.md code 行番号 def is_prime(p): return True</description>
     </item>
     
   </channel>
