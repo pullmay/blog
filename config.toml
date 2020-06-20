@@ -25,8 +25,12 @@ pygmentsStyle = "manni"
     dateformNum     = "2006-01-02"
     dateformNumTime = "2006-01-02 15:04 -0700"
 
+    mainSections = ["posts", "millog"]
     homeSubtitle = "stay gold"
     justifyContent = false
+
+[Permalinks]
+    post = "/:filename/"
 
 [menu]
     [[menu.main]]
