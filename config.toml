@@ -1,9 +1,11 @@
 # 基本設定
 baseURL = "https://pullmay.github.io/blog"
+langageCode = "ja-jP"
+defaultContentLanguage = "ja"
 title = "みるログ"
 theme = "hermit"
 publishDir = "docs"
-defaultContentLanguage = "ja"
+
 hasCJKLanguage = true # ワードカウント
 enableEmoji = true
 paginate = 20
