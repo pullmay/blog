@@ -2,8 +2,6 @@
 title: "Second"
 date: 2020-06-19T21:39:50+09:00
 draft: false
-toc: false
-images:
 tags: 
   - untagged
 ---

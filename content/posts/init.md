@@ -18,7 +18,7 @@ tags:
 
 ## code
 
-* 行番号
+* 行番号（反映されない）
 
 ```python　{linenos=table}
 def is_prime(p):
@@ -41,7 +41,7 @@ def lambda_handler(event, context):
 ## Twitter埋め込み
 
 ```markdown
-{{< twitter 1271709146694344710 >}}
+{{< tweet 1271709146694344710 >}}
 ```
 
 {{< twitter 1271709146694344710>}}
