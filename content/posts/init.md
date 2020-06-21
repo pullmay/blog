@@ -41,7 +41,7 @@ def lambda_handler(event, context):
 ## Twitter埋め込み
 
 ```
-{{< twitter 1271709146694344710>}}
+{{<:&lt; twitter 1271709146694344710<:&gt;}}
 ```
 
 {{< twitter 1271709146694344710>}}
