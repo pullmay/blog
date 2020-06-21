@@ -30,7 +30,7 @@ tag = "tags"
     dateformNum     = "2006-01-02"
     dateformNumTime = "2006-01-02 15:04 -0700"
 
-    homeSubtitle = ""
+    homeSubtitle = "May the Utada be with you"
     wordCount = true
     justifyContent = false
 
