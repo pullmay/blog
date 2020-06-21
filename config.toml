@@ -51,7 +51,7 @@ tag = "tags"
         pre = "<i class='fa fa-info-circle'></i>"
 
     [[menu.main]]
-        name = "みるログ"
+        name = "Log"
         url = "/millog/"
         weight = 3
         pre = "<i class='fa fa-archive'></i>"
