@@ -41,7 +41,9 @@ def lambda_handler(event, context):
 ## Twitter埋め込み
 
 ```markdown
-{{< tweet 1271709146694344710 >}}
+{{(<) tweet 1271709146694344710 (>)}}
 ```
+
+※`()`は不要
 
 {{< twitter 1271709146694344710>}}
