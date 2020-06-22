@@ -34,7 +34,7 @@
       <pubDate>Fri, 19 Jun 2020 18:49:46 +0900</pubDate>
       
       <guid>https://pullmay.github.io/blog/posts/init/</guid>
-      <description>Install brew install hugo meta https://github.com/Track3/hermit code 行番号（反映されない） def is_prime(p): return True ハイライト import json def lambda_handler(event, context): # TODO implement return { &amp;#39;statusCode&amp;#39;: 200, &amp;#39;body&amp;#39;: json.dumps(&amp;#39;Hello from Lambda!&amp;#39;) } Twitter埋め込み {{(&amp;lt;) tweet 1271709146694344710 (&amp;gt;)}} ※()は不要 動かしてみ</description>
+      <description>Install brew install hugo meta https://github.com/Track3/hermit code 行番号（反映されない） def is_prime(p): return True theme適用 def is_prime(p): return True ハイライト import json def lambda_handler(event, context): # TODO implement return { &amp;#39;statusCode&amp;#39;: 200, &amp;#39;body&amp;#39;: json.dumps(&amp;#39;Hello from Lambda!&amp;#39;) } ブロック環境？ {: .box-note} Note: This is a notification box.</description>
     </item>
     
   </channel>
