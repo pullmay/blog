@@ -25,6 +25,13 @@ def is_prime(p):
     return True
 ```
 
+* theme適用
+
+```python:is_prime.py
+def is_prime(p):
+    return True
+```
+
 * ハイライト
 
 ```python {hl_lines=[1, 3, "5-8"]}
@@ -37,6 +44,17 @@ def lambda_handler(event, context):
         'body': json.dumps('Hello from Lambda!')
     }
 ```
+
+## ブロック環境？
+
+{: .box-note}
+**Note:** This is a notification box.
+
+{: .box-warning}
+**Warning:** This is a warning box.
+
+{: .box-error}
+**Error:** This is an error box.
 
 ## Twitter埋め込み
 

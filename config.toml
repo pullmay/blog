@@ -15,8 +15,9 @@ paginate = 20
 hrefTargetBlank = true
 
 # シンタックスハイライト有効化とスタイル
-# pygmentsCodefences = true
 # pygmentsStyle = "manni"
+pygmentsUseClasses = true
+pygmentsCodefences = true 
 
 [taxonomies]
 tag = "tags"
